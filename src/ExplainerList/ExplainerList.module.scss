@@ -1,0 +1,11 @@
+.root {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+
+    li {
+        max-width: 30ch;
+    }
+}
